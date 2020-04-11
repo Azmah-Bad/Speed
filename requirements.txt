@@ -1,3 +1,1 @@
-tkinter
-sysv_ipc
-tkinter
+sysv_ipc=1.0.1
