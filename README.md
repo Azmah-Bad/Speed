@@ -17,5 +17,5 @@ Once you run the program it askes for number of players then you can start playi
 
 Have Fun !
 
-Note : the parent process is suppose to kill all the child processes when the game ends (Line 258) but it doesn't so please terminate them. (We tried terminating them using the terminate() method but it doesnt work, we think it's because of the UI)
+Note : the parent process is suppose to kill all the child processes when the game ends (Line 258) but it doesn't so please terminate them. (We tried terminating them using the terminate() method but it doesnt work, we think it's because of the UI, sorry about that)
 
